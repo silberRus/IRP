@@ -1,4 +1,4 @@
-
+﻿
 Procedure OnCreateAtServer(Object, Form, Cancel, StandardProcessing) Export
 	Is = Is(Object);
 	DocumentsServer.OnCreateAtServer(Object, Form, Cancel, StandardProcessing);
